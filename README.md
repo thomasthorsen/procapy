@@ -8,7 +8,7 @@ Installation
 
 Place proca.py in your executable path (for example ~/bin). For ease of access it is recommended to add a short alias to bash:
 
-    alias c='procapy.py'
+    alias c='proca.py'
 
 This will allow the calculator to be invoked simply as:
 
